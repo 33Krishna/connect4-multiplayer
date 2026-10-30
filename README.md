@@ -1,4 +1,4 @@
-# 🎮 Connect 4 Multiplayer
+# 🎮 Connect4 Arena — Real-Time Multiplayer Gaming Platform
 
 > **Four in a row. One worthy rival.**  
 > A sleek, fast, real-time multiplayer Connect 4 game built with React, Node.js, TypeScript, and Socket.IO. No accounts. No downloads. Just share a room code and make your move.
